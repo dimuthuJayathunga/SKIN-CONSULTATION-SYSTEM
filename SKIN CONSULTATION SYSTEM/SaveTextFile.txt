@@ -1,0 +1,30 @@
+Doctor name: jayaweera
+Doctor Surname: jayawardana
+Specialization: cosmetic
+LicenceNum: 001
+
+
+Doctor name: anura
+Doctor Surname: jayaweera
+Specialization: medical
+LicenceNum: 002
+
+
+Doctor name: galagama
+Doctor Surname: chandralatha
+Specialization: medical
+LicenceNum: 003
+
+
+Doctor name: thilina
+Doctor Surname: sureash
+Specialization: cosmetic
+LicenceNum: 004
+
+
+Doctor name: osada
+Doctor Surname: gunasinha
+Specialization: cosmetic
+LicenceNum: 005
+
+
